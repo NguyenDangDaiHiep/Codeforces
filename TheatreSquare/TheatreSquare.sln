@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TheatreSquare", "TheatreSquare\TheatreSquare.vcxproj", "{779EAA27-B894-4CED-9D6E-A4406B0E9D53}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Watermelon", "..\Watermelon\Watermelon\Watermelon.vcxproj", "{34E8D730-63AE-46EF-AC6F-AB957BD9C788}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Spreadsheets", "..\Spreadsheets\Spreadsheets\Spreadsheets.vcxproj", "{794C84ED-EEB3-4D8E-A1A7-04716486D351}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{779EAA27-B894-4CED-9D6E-A4406B0E9D53}.Debug|Win32.ActiveCfg = Debug|Win32
+		{779EAA27-B894-4CED-9D6E-A4406B0E9D53}.Debug|Win32.Build.0 = Debug|Win32
+		{779EAA27-B894-4CED-9D6E-A4406B0E9D53}.Release|Win32.ActiveCfg = Release|Win32
+		{779EAA27-B894-4CED-9D6E-A4406B0E9D53}.Release|Win32.Build.0 = Release|Win32
+		{34E8D730-63AE-46EF-AC6F-AB957BD9C788}.Debug|Win32.ActiveCfg = Debug|Win32
+		{34E8D730-63AE-46EF-AC6F-AB957BD9C788}.Debug|Win32.Build.0 = Debug|Win32
+		{34E8D730-63AE-46EF-AC6F-AB957BD9C788}.Release|Win32.ActiveCfg = Release|Win32
+		{34E8D730-63AE-46EF-AC6F-AB957BD9C788}.Release|Win32.Build.0 = Release|Win32
+		{794C84ED-EEB3-4D8E-A1A7-04716486D351}.Debug|Win32.ActiveCfg = Debug|Win32
+		{794C84ED-EEB3-4D8E-A1A7-04716486D351}.Debug|Win32.Build.0 = Debug|Win32
+		{794C84ED-EEB3-4D8E-A1A7-04716486D351}.Release|Win32.ActiveCfg = Release|Win32
+		{794C84ED-EEB3-4D8E-A1A7-04716486D351}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
